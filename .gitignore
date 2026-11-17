@@ -25,3 +25,9 @@ Thumbs.db
 # Build artifacts
 dist/
 build/
+.env
+
+# Local backup files
+*.backup
+*.bak
+*.memory-backup
